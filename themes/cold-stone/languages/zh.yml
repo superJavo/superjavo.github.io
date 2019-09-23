@@ -1,0 +1,21 @@
+title: 你的博客标题
+
+nav:
+  home: 主页
+  tags: 标签
+  about: 关于
+  friends: 友链
+  projects: 项目
+  archives: 存档
+  categories: 分类
+
+post:
+  postTime: 发布于
+  updateTime: 最后更新
+  tags: 标签
+  more: 阅读全文
+  wordCount: 字数
+  readingTime: 阅读时间
+
+search:
+  search: 搜索

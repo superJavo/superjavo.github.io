@@ -5,7 +5,7 @@
 # Site
 title: Javo | 江月的博客
 subtitle: 剑胆琴心
-description: Hi！我是江月，一个前端开发者。这里是我的个人博客，记录日常感悟、编程经验和读书心得。
+description: Hi！我是江月，一个前端开发者。这里是我的个人博客,记录日常感悟、编程经验和读书心得。
 keywords: 个人网站,个人博客,Javo,江月,前端博客,前端开发
 author: 江月
 language: cn
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jekyll-theme-slate
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
